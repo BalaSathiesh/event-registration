@@ -18,17 +18,13 @@ Select the shapes you need
 Import image as Needed
 
 ### Step 5:
-
-### Step 6:
-
 Validate the HTML and CSS code.
 
 ### Step 6:
-
 Publish the website in the given URL.
 
 ## DESIGN:
-
+Figma design.
 ## PROGRAM :
 /* Home Page */
 
