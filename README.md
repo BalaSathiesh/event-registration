@@ -62,30 +62,22 @@ text-align: center;
 
 color: #000000;
 
-
-
 /* AI-ML */
-
 
 position: absolute;
 width: 335px;
 height: 48px;
 left: 12px;
 top: 287px;
-
 font-family: 'Inter';
 font-style: normal;
 font-weight: 400;
 font-size: 20px;
 line-height: 24px;
 text-align: center;
-
 color: #000000;
 
-
-
 /* AI-DS */
-
 
 position: absolute;
 width: 335px;
@@ -102,10 +94,7 @@ text-align: center;
 
 color: #000000;
 
-
-
 /* IOT */
-
 
 position: absolute;
 width: 335px;
@@ -121,8 +110,6 @@ line-height: 24px;
 text-align: center;
 
 color: #000000;
-
-
 
 /* CS */
 
@@ -142,10 +129,7 @@ text-align: center;
 
 color: #000000;
 
-
-
 /* Line 3 */
-
 
 position: absolute;
 width: 360px;
@@ -155,7 +139,6 @@ top: 63px;
 
 border: 4px solid #0029FF;
 transform: rotate(-0.16deg);
-
 
 /* sec logo 3 */
 
@@ -182,8 +165,6 @@ text-align: center;
 
 color: #FF0000;
 
-
-
 /* Line 2 */
 
 
@@ -208,9 +189,7 @@ top: 232px;
 
 background: #00FFF0;
 
-
 /* Rectangle 3 */
-
 
 position: absolute;
 width: 250px;
@@ -220,9 +199,7 @@ top: 334px;
 
 background: #00FFF0;
 
-
 /* username */
-
 
 position: absolute;
 width: 123px;
@@ -237,13 +214,9 @@ font-size: 20px;
 line-height: 24px;
 /* identical to box height */
 
-
 color: #FF0000;
 
-
-
 /* username */
-
 
 position: absolute;
 width: 123px;
@@ -258,13 +231,9 @@ font-size: 20px;
 line-height: 24px;
 /* identical to box height */
 
-
 color: #FF0000;
 
-
-
 /* username */
-
 
 position: absolute;
 width: 123px;
@@ -279,13 +248,9 @@ font-size: 20px;
 line-height: 24px;
 /* identical to box height */
 
-
 color: #FF0000;
-
-
 
 /* password */
-
 
 position: absolute;
 width: 123px;
@@ -300,13 +265,8 @@ font-size: 20px;
 line-height: 24px;
 /* identical to box height */
 
-
 color: #FF0000;
-
-
-
 /* Rectangle 2 */
-
 
 position: absolute;
 width: 200px;
@@ -317,9 +277,7 @@ top: 436px;
 background: #43F816;
 box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
 
-
 /* SUBMIT */
-
 
 position: absolute;
 width: 188px;
@@ -336,10 +294,7 @@ text-align: center;
 
 color: #000000;
 
-
-
 /* sec logo 2 */
-
 
 position: absolute;
 width: 118px;
@@ -363,10 +318,7 @@ text-align: center;
 
 color: #FFFFFF;
 
-
-
 /* Affiliated to Anna University */
-
 
 position: absolute;
 width: 335px;
@@ -383,10 +335,7 @@ text-align: center;
 
 color: #FFFFFF;
 
-
-
 /* NIRF Ranked Autonomous Institution */
-
 
 position: absolute;
 width: 335px;
@@ -403,10 +352,7 @@ text-align: center;
 
 color: #FFFFFF;
 
-
-
 /* Line 1 */
-
 
 position: absolute;
 width: 360px;
@@ -417,9 +363,7 @@ top: 63px;
 border: 4px solid #0029FF;
 transform: rotate(-0.16deg);
 
-
 /* Rectangle 1 */
-
 
 position: absolute;
 width: 200px;
@@ -430,9 +374,7 @@ top: 376px;
 background: #43F816;
 box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
 
-
 /* LOGIN */
-
 
 position: absolute;
 width: 188px;
@@ -449,10 +391,7 @@ text-align: center;
 
 color: #000000;
 
-
-
 /* LOGIN */
-
 
 position: absolute;
 width: 188px;
@@ -468,11 +407,8 @@ line-height: 24px;
 text-align: center;
 
 color: #000000;
-
-
 
 /* sec logo 1 */
-
 
 position: absolute;
 width: 118px;
